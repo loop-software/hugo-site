@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
 name: Loop Development
-title: Loop Development
 github:
+  title: Loop Development
   is_project_page: false
